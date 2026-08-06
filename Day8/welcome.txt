@@ -1,0 +1,4 @@
+This is first log. 
+This file is written by Sujan using Python. 
+This is another log, with a detailed explaination of how the file is written using Python.
+ Hello all
